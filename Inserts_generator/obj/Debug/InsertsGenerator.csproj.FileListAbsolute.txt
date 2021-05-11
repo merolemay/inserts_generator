@@ -1,0 +1,9 @@
+C:\Users\aleja\source\repos\InsertsGenerator\bin\Debug\InsertsGenerator.exe.config
+C:\Users\aleja\source\repos\InsertsGenerator\bin\Debug\InsertsGenerator.exe
+C:\Users\aleja\source\repos\InsertsGenerator\bin\Debug\InsertsGenerator.pdb
+C:\Users\aleja\source\repos\InsertsGenerator\obj\Debug\InsertsGenerator.csprojAssemblyReference.cache
+C:\Users\aleja\source\repos\InsertsGenerator\obj\Debug\InsertsGenerator.Properties.Resources.resources
+C:\Users\aleja\source\repos\InsertsGenerator\obj\Debug\InsertsGenerator.csproj.GenerateResource.cache
+C:\Users\aleja\source\repos\InsertsGenerator\obj\Debug\InsertsGenerator.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\InsertsGenerator\obj\Debug\InsertsGenerator.exe
+C:\Users\aleja\source\repos\InsertsGenerator\obj\Debug\InsertsGenerator.pdb
