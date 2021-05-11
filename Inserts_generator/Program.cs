@@ -21,7 +21,7 @@ namespace InsertsGenerator
             Project = new ArrayList();
             workOn = new ArrayList();
 
-            string path = Directory.GetParent(Directory.GetCurrentDirectory()).Parent.FullName + "\\data\\Employee.csv";
+            string path = Directory.GetParent(Directory.GetCurrentDirectory()).Parent.FullName + "\\data\\DataSet.csv";
             var reader = new StreamReader(File.OpenRead(path));
             List<string> listA = new List<string>();
             while (!reader.EndOfStream)
@@ -31,9 +31,9 @@ namespace InsertsGenerator
                 var lina2 = line.Split(',');
 
                 employee.Add("INSERT INTO Employee VALUES(" + lina2[0] + "," + '"' + lina2[1] + '"' + "," + '"' + lina2[2] + '"' + "," + '"' + lina2[3] + '"' + "," + '"' + lina2[4] + '"' + "," + "'" + lina2[5] + "'" + "," + '"' + lina2[6] + '"' + ");");
-                Department.Add("INSERT INTO Department VALUES(" + lina2[0] + "," + lina2[7] + ");");
-                Project.Add("INSERT INTO Projectt VALUES(" + lina2[0] + "," + lina2[8] + ");");
-                workOn.Add("INSERT INTO WorksOn VALUES(" + lina2[0] + "," + lina2[0] + "," + '"' + lina2[9] + '"' + "," + '"' + lina2[10] + '"' + ");");
+                Department.Add("INSERT INTO Department VALUES(" + lina2[0] + ","+ '"'+ lina2[7]+ '"' + ");");
+                Project.Add("INSERT INTO Projectt VALUES(" + lina2[11] + "," + '"'+ lina2[8] + '"'+ ");");
+                workOn.Add("INSERT INTO WorksOn VALUES(" + lina2[0] + "," + lina2[11] + "," + '"' + lina2[9] + '"' + "," + '"' + lina2[10] + '"' + ");");
 
 
             }
