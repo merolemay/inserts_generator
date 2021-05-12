@@ -30,7 +30,7 @@ namespace InsertsGenerator
                 var line = reader.ReadLine();
                 var lina2 = line.Split(',');
 
-                employee.Add("INSERT INTO Employee VALUES("+"'"+ lina2[0]+"'"+ "," + "'" + lina2[1] + "'" + "," + "'" + lina2[2] + "'" + "," + "'" + lina2[3] + "'" + "," + "'" + lina2[4] + "'" + "," + "'" + lina2[5] + "'" + "," + "'" + lina2[6]+ "'" + ");");
+                employee.Add("INSERT INTO Employee VALUES("+"'"+ lina2[0]+"'"+ "," + "'" + lina2[1] + "'" + "," + "'" + lina2[2] + "'" + "," + "'" + lina2[3] + "'" + "," + "'" + lina2[4] + "'" + "," + "'" + lina2[5] + "'" + "," + ");");
                 Department.Add("INSERT INTO Department VALUES("+"'"+ lina2[0]+"'"+ ","+ "'"+ lina2[7]+ "'" + ");");
                 Project.Add("INSERT INTO Projectt VALUES("+"'"+ lina2[11] +"'"+  "," + "'"+ lina2[8] + "'"+ ");");
                 workOn.Add("INSERT INTO WorksOn VALUES(" +"'"+  lina2[0] +"'"+  "," +"'"+  lina2[11] + "'"+ "," + "'" + lina2[9] + "'" + "," + "'" + lina2[10] + "'" + ");");
