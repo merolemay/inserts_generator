@@ -16,3 +16,12 @@ C:\Users\User\Desktop\InsertsGenerator\obj\Debug\InsertsGenerator.csproj.Generat
 C:\Users\User\Desktop\InsertsGenerator\obj\Debug\InsertsGenerator.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\InsertsGenerator\obj\Debug\InsertsGenerator.exe
 C:\Users\User\Desktop\InsertsGenerator\obj\Debug\InsertsGenerator.pdb
+C:\Users\User\Documents\GitHub\inserts_generator\Inserts_generator\bin\Debug\InsertsGenerator.exe.config
+C:\Users\User\Documents\GitHub\inserts_generator\Inserts_generator\bin\Debug\InsertsGenerator.exe
+C:\Users\User\Documents\GitHub\inserts_generator\Inserts_generator\bin\Debug\InsertsGenerator.pdb
+C:\Users\User\Documents\GitHub\inserts_generator\Inserts_generator\obj\Debug\InsertsGenerator.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\inserts_generator\Inserts_generator\obj\Debug\InsertsGenerator.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\inserts_generator\Inserts_generator\obj\Debug\InsertsGenerator.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\inserts_generator\Inserts_generator\obj\Debug\InsertsGenerator.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\inserts_generator\Inserts_generator\obj\Debug\InsertsGenerator.exe
+C:\Users\User\Documents\GitHub\inserts_generator\Inserts_generator\obj\Debug\InsertsGenerator.pdb
